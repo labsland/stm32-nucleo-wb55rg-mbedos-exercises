@@ -1,10 +1,16 @@
-STM32 Nucleo WB55RG board exercises with Mbed
-=============================================
+# STM32 Nucleo WB55RG board exercises with Mbed
 
-Introduction
-------------
+## Introduction
 
-These exercises are designed for mbedOS. The easiest way to use them are using Keil Studio Online. Go to:
+This repo contains a set of examples of lessons that could be used with the [LabsLand](https://labsland.com) remote laboratory for STM32 Nucleo WB55RG.
+
+You do not need to have the equipment, but a license to use the equipment at LabsLand.
+
+This repository does not contain solutions. Please contact LabsLand for those.
+
+## Starting with Mbed
+
+These exercises are designed for Mbed. The easiest way to use them are using Keil Studio Online. Go to:
 
   https://studio.keil.arm.com/
 
@@ -37,8 +43,7 @@ Note: the first time it takes a while, the rest of the times it is faster.
 
 And you will see how you download a binary file, that you can then upload to LabsLand.
 
-Setting up the peripherals
---------------------------
+## Setting up the peripherals
 
 The STM32 Nucleo WB55RG board incorporates the following diagram:
 
@@ -82,3 +87,28 @@ int main()
     }
 }
 ```
+
+## Exercises
+
+### Exercise 1: Simple hello world
+
+[main.cpp](exercises/hello-world/main.cpp)
+
+### Exercise 2: ADC and servomotor
+
+
+### Exercise 3: PWM and LED
+
+
+### Exercise 4: Parking Lot
+
+
+### Exercise 5: KeyPad
+
+
+### Exercise 6: Morse
+
+
+### Exercise 7: NES Controller
+
+
