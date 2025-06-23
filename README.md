@@ -96,19 +96,24 @@ int main()
 
 ### Exercise 2: ADC and servomotor
 
+[main.cpp](exercises/morse/adc-servo/main.cpp)
 
-### Exercise 3: PWM and LED
+### Exercise 3: PWM and RGB LED
 
+[main.cpp](exercises/morse/pwm-rgb-led.cpp)
 
 ### Exercise 4: Parking Lot
 
+[main.cpp](exercises/parking-lot/main.cpp)
 
 ### Exercise 5: KeyPad
 
+[main.cpp](exercises/morse/keypad.cpp)
 
 ### Exercise 6: Morse
 
+[main.cpp](exercises/morse/main.cpp)
 
 ### Exercise 7: NES Controller
 
-
+[main.cpp](exercises/morse/nes-controller.cpp)
